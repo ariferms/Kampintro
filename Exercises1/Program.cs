@@ -61,7 +61,7 @@ namespace Exercises1
             //Console.WriteLine(player1.name + ": " + player1.playerPuan);
             //Console.WriteLine(player1.position);
             //Console.WriteLine(player1.skills);
-
+            Console.WriteLine("Son Hali...");
         }
     }
 
